@@ -1,0 +1,10 @@
+{
+  "description": "A personalized study companion with focus timers, wellness reminders, motivational messages, customizable themes, and a private code-protected section.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
